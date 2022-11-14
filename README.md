@@ -1,6 +1,8 @@
 ## Lecture-1
 
-'프론트엔드 개발자를 위한, 실전 웹 성능 최적화(feat. React) - Part. 1' 1번째 강의 소스입니다.
+![frontend performance optimization guide](public/paste/2022-11-14-13-58-40.png)
+프론트엔드 성능 최적화 가이드 책의 part 1 실습 내용입니다.
+자세한 스텝은 커밋 내역을 참고 바랍니다.
 
 ### 실행
 
@@ -33,7 +35,8 @@ $ npm run server
 or
 $ yarn server
 ```
-*3번의 dev server 와 다른 콘솔에서 띄워줍니다.
+
+\*3번의 dev server 와 다른 콘솔에서 띄워줍니다.
 
 5. build + serve
 

@@ -68,7 +68,7 @@ function Article(props) {
             zeroPad(createdTime.getDate(), 2)}
         </div>
       </div>
-      {/* css로 120 * 120px 지정되어 있으므로, dpi 고려해 2바 이미지 로딩*/}
+      {/* css로 120 * 120px 지정되어 있으므로, dpi 고려해 2배 이미지 로딩*/}
       <div className={"Article__thumbnail"}>
         <img
           src={
